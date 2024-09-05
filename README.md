@@ -2,7 +2,7 @@
 
 ## 📍 Hallo Guys!!!
 
-Hoje trouxe um conteúdo massa para quem quer contruir o um Lab para conhecer e testar as funcionalidades do Docker.
+Hoje trouxe um conteúdo massa para quem quer contruir um Lab para conhecer e testar as funcionalidades do Docker.
 Para montar o Cluster usei o Hypervisor do tipo 2, o virtual Box.
 Usei o Debian 11, netinstall de 64 Bits, como mostra a imagem abaixo:
 
