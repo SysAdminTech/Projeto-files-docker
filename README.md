@@ -22,5 +22,5 @@ A Interface em modo interno, vamos usa-la para que as 3 máquinas conversem entr
 Os arquivos usados durante o Bootcamp estão disponíveis nesse repositório.  
 Reutilizei a maioria dos comandos utilizados no treinamento, pois eram comandos chaves para criar os arquivos.  
 As alterações nos arquivos são de acordo com cada parâmetro local do computador e da rede, aqui na minha por exemplo a rede é 192.168.80.0/24,
-onde eu utilizo para colocar no modo Bridge.
+onde eu utilizo para colocar no modo Bridge.  
 Para saber mais sobre as configurações das VMS, podem enviar issues.
